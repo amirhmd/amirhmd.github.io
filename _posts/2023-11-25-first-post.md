@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Snowy day"
-categories: Miscellaneous
+categories: [Daily]
 ---
 
 It's a cloudy snowy day here and that's fine, too!
