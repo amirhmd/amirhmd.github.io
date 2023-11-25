@@ -11,3 +11,16 @@ package.json
 *.gemspec
 .jekyll-cache
 vendor
+/.idea/amirhmd.github.io.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/.idea/
