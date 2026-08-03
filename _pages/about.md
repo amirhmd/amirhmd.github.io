@@ -9,4 +9,11 @@ permalink: /about/
 
 
 
-Hi, I am @amirhmd. 👋 I am a Software Engineer with experience in development and design of enterprise systems. I have experience of development and design of cloud native application based on #AWS. However, my current focus is on developing services for deployment on customer-managed VMs running Kubernetes, ensuring minimal resource consumption and optimal CPU efficiency using NATS, Apache Pekko, micronaut and reactive programming.
+Hi, I’m [@amirhmd](https://github.com/amirhmd). 👋
+
+I’m a software engineer who enjoys building cloud-native and distributed systems across AWS, Azure, Kubernetes, and customer-managed infrastructure.
+
+My current focus is designing software that runs efficiently on resource-constrained Kubernetes environments—keeping CPU and memory usage low without turning the architecture into a science project.
+
+I mainly work with Java, C#, NATS, Microsoft Orleans, Apache Pekko, Micronaut, and reactive programming.
+
